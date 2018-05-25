@@ -1,7 +1,7 @@
 ﻿<Window x:Class="Wpf_juegoImagenes.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Juego de Parejas" Height="473.881" Width="704.104" ResizeMode="CanMinimize">
+        Title="Juego de Parejas" Height="473.881" Width="704.104" ResizeMode="CanMinimize" Icon="Icono/icono.jpg">
 
     <Grid Name="grdGrid">
         <Grid.RowDefinitions>
