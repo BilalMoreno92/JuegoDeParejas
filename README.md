@@ -5,4 +5,4 @@
 [![GitHub stars](https://img.shields.io/github/stars/KamiKeys/JuegoDeParejas.svg)]()
 [![GitHub forks](https://img.shields.io/github/forks/KamiKeys/JuegoDeParejas.svg)](https://github.com/KamiKeys/JuegoDeParejas/network)
 [![GitHub license](https://img.shields.io/github/license/KamiKeys/JuegoDeParejas.svg)](https://github.com/KamiKeys/JuegoDeParejas/blob/master/LICENSE)  
-Juego de cartas en el que se buscan sus parejas hasta que queden todas levantadas.
+Juego de cartas en el que se buscan sus parejas hasta que queden todas levantadas. Si fallas pierdes.
